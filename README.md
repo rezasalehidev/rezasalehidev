@@ -7,7 +7,7 @@ I work across the modern JS ecosystem — from polished UIs to scalable app arch
 ## What I work with
 
 **Frontend**
-- React · Next.js · Angular · Vue · Nuxt · TypeScript · JavaScript
+- JavaScript · TypeScript ·  React · Next.js · Angular · Vue · Nuxt ·
 
 **Mobile**
 - React Native · Flutter

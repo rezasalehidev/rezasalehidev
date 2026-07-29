@@ -13,7 +13,7 @@ I work across the modern JS ecosystem — from polished UIs to scalable app arch
 - React Native · Flutter
 
 **Backend (also comfortable with)**
-- Node.js · NestJS · Python · Django
+- Node.js · NestJS · Python · Django · Flask
 
 ## About me
 

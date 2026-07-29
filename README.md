@@ -15,6 +15,10 @@ I work across the modern JS ecosystem — from polished UIs to scalable app arch
 **Backend (also comfortable with)**
 - Node.js · NestJS · Python · Django · Flask
 
+**Databases**
+- PostgreSQL · MongoDB
+
+
 ## About me
 
 - Self-taught developer with experience across **10+ projects**

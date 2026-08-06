@@ -1,6 +1,6 @@
 # Hi, I'm Reza 👋
 
-Frontend & Mobile Engineer with **8+ years** of experience building production web and mobile apps.
+FullStack & Mobile Engineer with **8+ years** of experience building production web and mobile apps.
 
 I work across the modern JS ecosystem — from polished UIs to scalable app architecture — and enjoy shipping products end to end.
 

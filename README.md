@@ -4,20 +4,25 @@ FullStack & Mobile Engineer with **8+ years** of experience building production 
 
 I work across the modern JS ecosystem — from polished UIs to scalable app architecture — and enjoy shipping products end to end.
 
+🌐 **Portfolio:** [https://portofolio-rez.vercel.app/](https://portofolio-rez.vercel.app/)
+
 ## What I work with
 
 **Frontend**
-- JavaScript · TypeScript ·  React · Next.js · Angular · Vue · Nuxt ·
+
+- JavaScript · TypeScript · React · Next.js · Angular · Vue · Nuxt
 
 **Mobile**
+
 - React Native · Flutter
 
 **Backend (also comfortable with)**
+
 - Node.js · NestJS · Python · Django · Flask
 
 **Databases**
-- PostgreSQL · MongoDB
 
+- PostgreSQL · MongoDB
 
 ## About me
 

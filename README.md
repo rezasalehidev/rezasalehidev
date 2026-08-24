@@ -1,8 +1,8 @@
 # Hi, I'm Reza 👋
 
-Full-Stack Developer | Frontend Specialist & Mobile Engineer with **8+ years** of experience building production web and mobile applications.
+Full-Stack Developer | Frontend Specialist & Mobile Engineer with **8+ years of experience** building production web and mobile applications.
 
-I work across the modern JavaScript ecosystem — from polished UIs to scalable application architecture — and enjoy building products end to end.
+My primary expertise is in **Frontend Development**, while I also work across backend and mobile technologies to build scalable products end to end.
 
 🌐 **Portfolio:** https://portofolio-rez.vercel.app/
 
@@ -10,40 +10,39 @@ I work across the modern JavaScript ecosystem — from polished UIs to scalable 
 
 **Frontend**
 
-* JavaScript · TypeScript · React · Next.js · Angular · Vue · Nuxt
+JavaScript · TypeScript · React · Next.js · Angular · Vue · Nuxt
 
 **Mobile**
 
-* React Native · Flutter
+React Native · Flutter
 
 **Backend**
 
-* Node.js · NestJS · Python · Django · Flask
+Node.js · NestJS · Python · Django · Flask
 
 **Databases**
 
-* PostgreSQL · MongoDB
+PostgreSQL · MongoDB
 
 **Blockchain & Web3**
 
-* Strong interest in Blockchain and Web3 technologies
-* Exploring blockchain architecture, decentralized applications, smart contracts, and Web3 development
-* Interested in combining my FullStack experience with blockchain-based products and decentralized technologies
+Currently exploring Blockchain and Web3 technologies, including decentralized applications, smart contracts, and blockchain architecture. I'm particularly interested in combining my Full-Stack experience with decentralized products and Web3 technologies.
 
 ## About me
 
-* Self-taught developer with experience across **10+ projects**
-* Strong focus on clean UI, performance, scalable architecture, and maintainable code
-* Comfortable collaborating in teams, communicating clearly, and owning features from idea to release
-* Passionate about learning new technologies and exploring emerging areas of software development
-* Particularly interested in **Blockchain, Web3, and decentralized applications**
+- Self-taught developer with experience across **10+ projects**
+- **8+ years of experience** building and maintaining production applications
+- Strong focus on clean UI, performance, scalable architecture, and maintainable code
+- Comfortable collaborating with teams and owning features from idea to production
+- Experienced across Frontend, Backend, and Mobile development
+- Passionate about learning new technologies and exploring emerging areas of software development
 
 ## Currently
 
-* Building and refining modern Angular / React / Vue applications
-* Exploring better architecture, developer experience, and mobile experiences
-* Learning more about **Blockchain and Web3 development**
-* Exploring how blockchain technologies can be integrated with modern FullStack applications
+- Building modern applications with **React, Angular, and Vue**
+- Exploring better software architecture and developer experience
+- Working across web, backend, and mobile development
+- Expanding my knowledge of **Blockchain and Web3 development**
 
 ---
 

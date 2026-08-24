@@ -17,8 +17,8 @@ HTML · CSS · React · Next.js · Angular · Vue · Nuxt .  Tailwind CSS . shad
 **Mobile**  
 React Native · Flutter
 
-**Backend**  
-Node.js · NestJS · Django · Flask
+Backend
+Node.js · NestJS · Django · Django REST Framework (DRF) · Flask · FastAPI
 
 **Databases**  
 PostgreSQL · MongoDB

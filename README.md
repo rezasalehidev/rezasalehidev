@@ -12,7 +12,7 @@ I build end-to-end products across frontend, backend, and mobile, with a strong 
 JavaScript · TypeScript · Python · Dart
 
 **Frontend**  
-HTML · CSS · Tailwind CSS · React · Next.js · Angular · Vue · Nuxt
+HTML · CSS · React · Next.js · Angular · Vue · Nuxt .  Tailwind CSS . shadcn/ui
 
 **Mobile**  
 React Native · Flutter

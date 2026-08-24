@@ -8,28 +8,25 @@ I build end-to-end products across frontend, backend, and mobile, with a strong 
 
 ## What I work with
 
-**Frontend**
+**Languages**  
+JavaScript · TypeScript · Python · Dart
 
-JavaScript · TypeScript · React · Next.js · Angular · Vue · Nuxt
+**Frontend**  
+HTML · CSS · Tailwind CSS · React · Next.js · Angular · Vue · Nuxt
 
-**Mobile**
-
+**Mobile**  
 React Native · Flutter
 
-**Backend**
+**Backend**  
+Node.js · NestJS · Django · Flask
 
-Node.js · NestJS · Python · Django · Flask
-
-**Databases**
-
+**Databases**  
 PostgreSQL · MongoDB
 
 **Blockchain & Web3**
-
 Currently exploring Blockchain and Web3 technologies, including decentralized applications, smart contracts, and blockchain architecture. I'm particularly interested in combining my Full-Stack experience with decentralized products and Web3 technologies.
 
 ## About me
-
 - Self-taught developer with experience across **10+ projects**
 - **8+ years of experience** building and maintaining production applications
 - Strong focus on clean UI, performance, scalable architecture, and maintainable code
@@ -38,7 +35,6 @@ Currently exploring Blockchain and Web3 technologies, including decentralized ap
 - Passionate about learning new technologies and exploring emerging areas of software development
 
 ## Currently
-
 - Building modern applications with **React, Angular, and Vue**
 - Exploring better software architecture and developer experience
 - Working across web, backend, and mobile development

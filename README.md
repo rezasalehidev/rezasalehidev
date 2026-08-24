@@ -2,7 +2,7 @@
 
 Full-Stack Developer | Frontend Specialist & Mobile Engineer with **8+ years of experience** building production web and mobile applications.
 
-My primary expertise is in **Frontend Development**, while I also work across backend and mobile technologies to build scalable products end to end.
+I build end-to-end products across frontend, backend, and mobile, with a strong focus on clean architecture, performance, maintainable code, and great user experiences.
 
 🌐 **Portfolio:** https://portofolio-rez.vercel.app/
 

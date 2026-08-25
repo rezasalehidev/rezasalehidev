@@ -58,20 +58,22 @@ Smart Contracts & Decentralized Applications
 
 Software Architecture & System Design
 
-Modern Backend Architecture
-
-Event-Driven Systems
-
 ---
 
 👨‍💻 About Me
 
 🚀 8+ years of experience in software development
-💻 Experience across 10+ projects
+
+💻 Experience across 30+ projects
+
 🎯 Strong focus on Frontend Development
+
 📱 Experienced in both Web and Mobile Development
+
 ⚙️ Comfortable working across Frontend, Backend, and Mobile
+
 🏗️ Interested in clean architecture and scalable systems
+
 🌱 Always learning and exploring new technologies
 
 ---

@@ -50,45 +50,15 @@ Docker · Kubernetes · Git · CI/CD
 
 ---
 
-🚀 What I Do
-Build modern and responsive web applications
-Develop scalable frontend architectures
-Create RESTful APIs and backend services
-Build cross-platform mobile applications
-Improve application performance and user experience
-Work with modern JavaScript and TypeScript ecosystems
-Design maintainable and scalable software architectures
-Collaborate with teams and take features from idea to production
-📌 Featured Projects
-🚀 Portfolio Website
-
-My personal portfolio showcasing my experience, skills, and selected projects.
-
-Tech: Next.js · React · TypeScript · Tailwind CSS
-
-🎬 Movie & Telegram Bot Project
-
-A backend-focused project built around movie data and API integrations.
-
-Tech: Python · FastAPI · TMDB API · Telegram Bot
-
-More projects coming soon.
-
-📊 GitHub Stats
-
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezasalehidev&show_icons=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasalehidev&layout=compact" />
-
-</p>
-
 🧠 Currently Exploring
 Blockchain & Web3 Development
 Smart Contracts & Decentralized Applications
 Software Architecture & System Design
-AI / LLM Applications
 Modern Backend Architecture
 Event-Driven Systems
+
+---
+
 👨‍💻 About Me
 🚀 8+ years of experience in software development
 💻 Experience across 10+ projects
@@ -97,6 +67,8 @@ Event-Driven Systems
 ⚙️ Comfortable working across Frontend, Backend, and Mobile
 🏗️ Interested in clean architecture and scalable systems
 🌱 Always learning and exploring new technologies
+
+---
 
 <p align="center">
 

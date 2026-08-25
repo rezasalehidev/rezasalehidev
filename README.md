@@ -8,7 +8,7 @@ My primary expertise is Frontend Development, while I also work across backend a
 
 I care about clean architecture, performance, maintainable code, scalable systems, and great user experiences.
 
-<p align="left"> <a href="https://portofolio-rez.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" /> </a> <a href="https://github.com/rezasalehidev"> <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github" /> </a> </p>
+<p align="left"> <a href="https://portofolio-rez.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" /> </p>
 
 🛠️ Tech Stack
 Frontend

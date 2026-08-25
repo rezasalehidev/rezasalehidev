@@ -36,8 +36,8 @@ React Native · Flutter · Dart
 
 <p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask" /> </p>
 
-Node.js · NestJS · Python
-Django · Django REST Framework · Flask
+Node.js · NestJS · Python . Django · Django REST Framework · Flask
+
 
 ---
 

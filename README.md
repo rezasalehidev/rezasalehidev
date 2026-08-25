@@ -60,6 +60,7 @@ Event-Driven Systems
 ---
 
 👨‍💻 About Me
+
 🚀 8+ years of experience in software development
 💻 Experience across 10+ projects
 🎯 Strong focus on Frontend Development

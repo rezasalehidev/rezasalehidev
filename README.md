@@ -51,10 +51,15 @@ Docker · Kubernetes · Git · CI/CD
 ---
 
 🧠 Currently Exploring
+
 Blockchain & Web3 Development
+
 Smart Contracts & Decentralized Applications
+
 Software Architecture & System Design
+
 Modern Backend Architecture
+
 Event-Driven Systems
 
 ---

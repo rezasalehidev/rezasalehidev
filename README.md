@@ -1,47 +1,88 @@
-# Hi, I'm Reza 👋
+Reza Salehi — GitHub Profile README
+Hi, I'm Reza 👋
+Full-Stack Developer · Frontend Specialist · Mobile Engineer
 
-Full-Stack Developer | Frontend Specialist & Mobile Engineer with **8+ years of experience** building production web and mobile applications.
+I’m a software developer with 8+ years of experience building and maintaining production web and mobile applications.
 
-I build end-to-end products across frontend, backend, and mobile, with a strong focus on clean architecture, performance, maintainable code, and great user experiences.
+My primary expertise is Frontend Development, while I also work across backend and mobile development to build complete, end-to-end products.
 
-🌐 **Portfolio:** https://portofolio-rez.vercel.app/
+I care about clean architecture, performance, maintainable code, scalable systems, and great user experiences.
 
-## What I work with
+<p align="left"> <a href="https://portofolio-rez.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" /> </a> <a href="https://github.com/rezasalehidev"> <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github" /> </a> </p>
 
-### Languages
-JavaScript · TypeScript · Python · Dart
+🛠️ Tech Stack
+Frontend
 
-### Frontend
-HTML · CSS · React · Next.js · Angular · Vue · Nuxt · Tailwind CSS · shadcn/ui
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxt,tailwind" /> </p>
 
-### Mobile
-React Native · Flutter
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Angular · Vue.js · Nuxt.js · Tailwind CSS · shadcn/ui
 
-### Backend
-Node.js · NestJS · Django · Django REST Framework (DRF) · Flask 
+Mobile
 
-### Databases
-PostgreSQL · MongoDB
+<p> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </p>
 
-### Blockchain & Web3
-Currently exploring Blockchain and Web3 technologies, including decentralized applications, smart contracts, and blockchain architecture. I'm particularly interested in combining my Full-Stack experience with decentralized products and Web3 technologies.
+React Native · Flutter · Dart
 
-## About me
+Backend
 
-* Self-taught developer with experience across **10+ projects**
-* **8+ years of experience** building and maintaining production applications
-* Strong focus on clean UI, performance, scalable architecture, and maintainable code
-* Comfortable collaborating with teams and owning features from idea to production
-* Experienced across Frontend, Backend, and Mobile development
-* Passionate about learning new technologies and exploring emerging areas of software development
+<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask" /> </p>
 
-## Currently
+Node.js · NestJS · Django · Django REST Framework · Flask
 
-* Building modern applications with **React, Angular, and Vue**
-* Exploring better software architecture and developer experience
-* Working across web, backend, and mobile development
-* Expanding my knowledge of **Blockchain and Web3 development**
+Databases & DevOps
 
----
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,kubernetes,git,github" /> </p>
 
-💡 **Always learning, building, and exploring new technologies.**
+PostgreSQL · MongoDB · Docker · Kubernetes · Git · CI/CD
+
+🚀 What I Do
+Build modern and responsive web applications
+Develop scalable frontend architectures
+Create RESTful APIs and backend services
+Build cross-platform mobile applications
+Improve application performance and user experience
+Work with modern JavaScript and TypeScript ecosystems
+Design maintainable and scalable software architectures
+Collaborate with teams and take features from idea to production
+📌 Featured Projects
+🚀 Portfolio Website
+
+My personal portfolio showcasing my experience, skills, and selected projects.
+
+Tech: Next.js · React · TypeScript · Tailwind CSS
+
+🎬 Movie & Telegram Bot Project
+
+A backend-focused project built around movie data and API integrations.
+
+Tech: Python · FastAPI · TMDB API · Telegram Bot
+
+More projects coming soon.
+
+📊 GitHub Stats
+
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezasalehidev&show_icons=true&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasalehidev&layout=compact&hide_border=true" /> </p>
+
+🔥 GitHub Activity
+
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezasalehidev&hide_border=true" /> </p>
+
+🧠 Currently Exploring
+Blockchain & Web3 Development
+Smart Contracts & Decentralized Applications
+Software Architecture & System Design
+AI / LLM Applications
+Modern Backend Architecture
+Event-Driven Systems
+About Me
+🚀 8+ years of experience in software development
+💻 Experience across 10+ projects
+🎯 Strong focus on Frontend Development
+📱 Experienced in both Web and Mobile Development
+⚙️ Comfortable working across Frontend, Backend, and Mobile
+🏗️ Interested in clean architecture and scalable systems
+🌱 Always learning and exploring new technologies
+
+💡 Always learning, building, and exploring new technologies.
+
+Let's Build Something Great 🚀

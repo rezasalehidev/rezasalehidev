@@ -10,6 +10,10 @@ I care about clean architecture, performance, maintainable code, scalable system
 <p align="left"> <a href="https://portofolio-rez.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" /> </a> </p>
 
 🛠️ Tech Stack
+
+---
+
+
 🎨 Frontend
 
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxt,tailwind" /> </p>

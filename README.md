@@ -53,6 +53,8 @@ Docker · Kubernetes · Git · CI/CD
 
 🚀 Currently Building & Exploring
 
+---
+
 ⛓️ Blockchain & Web3 Development
 
 📜 Solidity & Smart Contracts
@@ -64,6 +66,8 @@ Docker · Kubernetes · Git · CI/CD
 ---
 
 👨‍💻 About Me
+
+---
 
 🚀 8+ years of experience in software development
 

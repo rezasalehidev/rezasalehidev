@@ -61,10 +61,9 @@ Docker · Kubernetes · Git · CI/CD
 
 🏗️ Software Architecture & System Design
 
+---
 
 👨‍💻 About Me
-
----
 
 🚀 8+ years of experience in software development
 

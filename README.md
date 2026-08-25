@@ -18,11 +18,15 @@ HTML · CSS · JavaScript · TypeScript
 React · Next.js · Angular · Vue.js · Nuxt.js
 Tailwind CSS · shadcn/ui
 
+---
+
 📱 Mobile
 
 <p> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </p>
 
 React Native · Flutter · Dart
+
+---
 
 ⚙️ Backend
 
@@ -31,12 +35,16 @@ React Native · Flutter · Dart
 Node.js · NestJS · Python
 Django · Django REST Framework · Flask
 
+---
+
 🗄️ Databases & DevOps
 
 <p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,kubernetes,git,github" /> </p>
 
 PostgreSQL · MongoDB
 Docker · Kubernetes · Git · CI/CD
+
+---
 
 🚀 What I Do
 Build modern and responsive web applications

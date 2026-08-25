@@ -59,13 +59,30 @@ Tech: Python · FastAPI · TMDB API · Telegram Bot
 
 More projects coming soon.
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rezasalehidev&show_icons=true&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasalehidev&layout=compact&hide_border=true" /> </p>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=rezasalehidev&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-🔥 GitHub Activity
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasalehidev&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezasalehidev&hide_border=true" /> </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rezasalehidev&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 🧠 Currently Exploring
 Blockchain & Web3 Development

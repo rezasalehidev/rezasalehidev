@@ -7,9 +7,14 @@ My primary expertise is Frontend Development, while I also work across Backend a
 
 I care about clean architecture, performance, maintainable code, scalable systems, and great user experiences.
 
-<p align="left"> <a href="https://portofolio-rez.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" /> </a> <a href="https://www.linkedin.com/in/reza-salehi-28b040228/"> <img src="https://img.shields.io/badge/LinkedIn-Reza%20Salehi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://portofolio-rez.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" /> </a>
+  
+<a href="https://www.linkedin.com/in/reza-salehi-28b040228/"> <img src="https://img.shields.io/badge/LinkedIn-Reza%20Salehi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 🛠️ Tech Stack
+
+---
+
 🎨 Frontend
 
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,nuxt,tailwind" /> </p>
@@ -20,11 +25,15 @@ Tailwind CSS · shadcn/ui
 
 📱 Mobile
 
+---
+
 <p> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </p>
 
 React Native · Flutter · Dart
 
 ⚙️ Backend
+
+---
 
 <p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,flask" /> </p>
 
@@ -33,21 +42,31 @@ Django · Django REST Framework · Flask
 
 🗄️ Databases & DevOps
 
+---
+
 <p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,kubernetes,git,github" /> </p>
 
 PostgreSQL · MongoDB
 Docker · Kubernetes · Git · CI/CD
 
+---
+
 🚀 Currently Building & Exploring
 
-Always learning, experimenting, and building.
+---
 
 ⛓️ Blockchain & Web3 Development
+
 📜 Solidity & Smart Contracts
+
 🌐 Decentralized Applications (dApps)
+
 🏗️ Software Architecture & System Design
 
+
 👨‍💻 About Me
+
+---
 
 🚀 8+ years of experience in software development
 

@@ -64,25 +64,16 @@ More projects coming soon.
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=rezasalehidev&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=rezasalehidev"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasalehidev&layout=compact&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasalehidev&layout=compact"
   />
 </p>
 
 ## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rezasalehidev&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 🧠 Currently Exploring
 Blockchain & Web3 Development

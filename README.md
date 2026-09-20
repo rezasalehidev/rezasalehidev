@@ -55,6 +55,20 @@ Docker · Kubernetes · Git · CI/CD
 
 ---
 
+🤖 AI Engineering
+
+🔹 Retrieval-Augmented Generation (RAG)
+
+🔹 LLM Integration & AI-powered Applications
+
+🔹 Vector Databases & Embeddings
+
+🔹 AI Agents & Agentic Workflows
+
+🔹 LangChain & LangGraph
+
+---
+
 ⛓️ Blockchain & Web3 Development
 
 📜 Solidity & Smart Contracts

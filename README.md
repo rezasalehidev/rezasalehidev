@@ -87,8 +87,6 @@ Docker · Kubernetes · Git · CI/CD
 
 💻 Experience across 30+ projects
 
-🎯 Strong focus on Frontend Development
-
 📱 Experienced in both Web and Mobile Development
 
 ⚙️ Comfortable working across Frontend, Backend, and Mobile

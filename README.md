@@ -3,7 +3,7 @@ Full-Stack Developer
 
 I’m a software developer with 8+ years of experience building and maintaining production web and mobile applications.
 
-I work across Frontend, Backend, Mobile, APIs, databases, and system architecture, with a strong focus on clean architecture, performance, maintainable code, scalable systems, and great user experiences.
+I work across Frontend, Mobile, Backend, APIs, databases, and system architecture, with a strong focus on clean architecture, performance, maintainable code, scalable systems, and great user experiences.
 
 <p align="left"> <a href="https://portofolio-rez.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" /> </a>
   

@@ -9,6 +9,8 @@ I work across Frontend, Mobile, Backend, APIs, databases, and system architectur
   
 <a href="https://www.linkedin.com/in/reza-salehi-28b040228/"> <img src="https://img.shields.io/badge/LinkedIn-Reza%20Salehi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
+---
+
 🛠️ Tech Stack
 
 ---
